@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.controller{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.prev{
+    margin-right: 5px;
+}
+.prev2{
+    margin-right: 5px;
+}
+.orqaga{
+   rotate: 360deg;
+}
+
